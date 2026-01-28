@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import { AppContext } from './AppContext'
-import Twitter from './components/twitter'
+import Twitter from './components/Twitter'
 import Reddit from './components/Reddit'
 
 function App() {
